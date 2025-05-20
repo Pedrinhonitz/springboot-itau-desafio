@@ -1,4 +1,4 @@
-# 💻 Desafio Vaga Dev Back-End Júnior — Itaú
+# 💻 Desafio Vaga Dev Back-End Júnior — [Itaú](https://github.com/rafaellins-itau/desafio-itau-vaga-99-junior)
 
 Este projeto é uma API REST desenvolvida como parte de um desafio técnico para uma vaga de desenvolvedor Back-End Júnior no Itaú.
 
